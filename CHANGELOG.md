@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.2.0 (2024-06-07)
+
+
+### Features
+
+* add export ([33ff7d3](https://github.com/ilopezro/sample-repo/commit/33ff7d3f08fe2ba9d6f903dbb82ea311f7c42081))
+* first real commit ([cff4d6a](https://github.com/ilopezro/sample-repo/commit/cff4d6a26d0a9ec20859d5b140c09efbe943fc91))
+
+
+### Bug Fixes
+
+* missing return ([5d0de23](https://github.com/ilopezro/sample-repo/commit/5d0de2351e2205028a1e503dca5408ffc35bc756))
+
 ### [1.1.1](https://github.com/ilopezro/sample-repo/compare/v1.1.0...v1.1.1) (2024-06-07)
 
 
