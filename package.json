@@ -6,7 +6,7 @@
   "author": "Isai Lopez Rodas <40477553+ilopezro@users.noreply.github.com>",
   "license": "MIT",
   "scripts": {
-    "release": "standard-version -f false"
+    "release": "standard-version -f false -s true"
   },
   "devDependencies": {
     "standard-version": "^9.5.0"
